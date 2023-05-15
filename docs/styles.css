@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.projects-list-column {
+    width: 25%;
+    background-color: #ffffff;
+    overflow-y: auto;
+    border-right: 1px solid #e0e0e0;
+    padding: 20px;
+}
+
+.selected-project-column {
+    width: 75%;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.project-item {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.project-item:hover {
+    background-color: #e0e0e0;
+}
+
+.metadata {
+    margin-top: 10px;
+}
