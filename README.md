@@ -1,4 +1,5 @@
 # Decode
+
 Build applications by describing their features in plain text.
 
 ## Latest Generation
@@ -21,7 +22,8 @@ Build applications by describing their features in plain text.
 
 ### Application
 
-https://justinmkaufman.github.io/Decode
+<p align="center"><a href="https://justinmkaufman.github.io/Decode"><img src="/Decode_Generated_App.png" /></a></p>
+<a href="https://justinmkaufman.github.io/Decode">View Application</a>
 
 ## Screenshots
 
