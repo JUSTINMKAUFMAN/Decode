@@ -2,8 +2,8 @@
     "id": "MY_PROJECTS",
     "title": "My Projects",
     "description": "Directory of the user's Decode applications",
-    "prompt": "A view comprised of a left column (PROJECTS_LIST_COLUMN) and a right column (SELECTED_PROJECT_COLUMN).\n\nPROJECTS_LIST_COLUMN occupies 25% of the available width and can scroll vertically when necessary.\n\nSELECTED_PROJECT_COLUMN occupies 75% of the available width and does not scroll.\n\nPROJECTS_LIST_COLUMNS displays the list of Decode projects found in `~/Library/Application Support/Decode/Projects` by 'title' property, sorted descending by 'updated' property. When a project title is selected, the SELECTED_PROJECT_COLUMN displays a summary of the metadata for the selected project.",
-    "latest_generations": ["/generated/web/MY_PROJECTS.js", "/generated/ios/MY_PROJECTS.swift", "/generated/android/MY_PROJECTS.kt"]
+    "prompt": "View\n\nA view comprised of a left column (PROJECTS_LIST_COLUMN) and a right column (SELECTED_PROJECT_COLUMN).\n\nLayout\n\nPROJECTS_LIST_COLUMN occupies 25% of the available width and can scroll vertically when necessary.\nSELECTED_PROJECT_COLUMN occupies 75% of the available width and does not scroll.\n\nBehavior\n\nPROJECTS_LIST_COLUMNS displays the list of Decode projects found in `~/Library/Application Support/Decode/Projects` by 'title' property, sorted descending by 'updated' property. When a project title is selected, the SELECTED_PROJECT_COLUMN displays a summary of the metadata for the selected project.",
+    "latest_generations": ["generated/web/MY_PROJECTS.css", "generated/web/MY_PROJECTS.html", "generated/web/MY_PROJECTS.js"]
     "created": "2023-05-15T16:54:30",
     "updated": "2023-05-15T16:54:43"
 }
